@@ -5,8 +5,8 @@ crew, adopt pets, sail, fish and play at the beach.
 
 Published with GitHub Pages:
 
-- Home: https://haxica.github.io/little-harbor/
-- Support: https://haxica.github.io/little-harbor/support.html
-- Privacy policy: https://haxica.github.io/little-harbor/privacy.html
+- Home: https://haxica.github.io/littleharbor/
+- Support: https://haxica.github.io/littleharbor/support.html
+- Privacy policy: https://haxica.github.io/littleharbor/privacy.html
 
-Questions, bugs and ideas: [open an issue](https://github.com/haxica/little-harbor/issues/new).
+Questions, bugs and ideas: [open an issue](https://github.com/haxica/littleharbor/issues/new).
