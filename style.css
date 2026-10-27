@@ -64,6 +64,21 @@ header p {
   width: auto;
 }
 
+.play {
+  margin-top: 6px;
+  padding: 8px 20px;
+  border-radius: 999px;
+  background: var(--green);
+  color: #fff;
+  font-weight: 600;
+  box-shadow: 0 3px 0 #3a9a5c;
+}
+
+.play:hover,
+.play:focus-visible {
+  background: #5fd487;
+}
+
 .soon {
   padding: 2px 12px;
   border-radius: 999px;
