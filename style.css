@@ -79,15 +79,6 @@ header p {
   background: #5fd487;
 }
 
-.soon {
-  padding: 2px 12px;
-  border-radius: 999px;
-  background: #ffd54a;
-  color: var(--ink);
-  font-size: 14px;
-  font-weight: 600;
-}
-
 nav {
   display: flex;
   flex-wrap: wrap;
